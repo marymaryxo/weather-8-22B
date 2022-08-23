@@ -1,0 +1,56 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+  line-height: 50px;
+}
+
+h2 {
+  font-size: 80pt;
+  line-height: 100px;
+}
+h3 {
+  font-size: 30pt;
+  line-height: 40px;
+}
+
+img {
+  object-fit: fill;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%
+}
+
+input {
+  margin: 0 auto;
+}
+.container {
+  margin: 50px auto;
+}
+
+.temp {
+  font-size: 28px;
+  line-height: 50px;
+}
+
+.weather-icons {
+  font-size: 40px;
+}
+
+a {
+  color:lightseagreen;
+  text-decoration: none
+}
+
+a:hover {
+  color: yellow;
+}
